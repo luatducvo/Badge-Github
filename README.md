@@ -1,6 +1,5 @@
 # 🚀 Hướng Dẫn Mở Khóa GitHub Achievements (2026)
 
-![GitHub Achievements Banner](assets/banner.png)
 
 Chào mừng bạn đến với hướng dẫn chi tiết về cách sở hữu những huy hiệu (badges) cực ngầu trên hồ sơ GitHub của mình. Đây là bộ sưu tập các thành tựu mà GitHub trao tặng cho cộng đồng nhà phát triển dựa trên các hoạt động đóng góp và tương tác.
 
